@@ -40,30 +40,7 @@
 
 ---
 
-## 🚀 Featured Projects
 
-### 🧘‍♀️ [AI Yoga Tutor](https://aiyogatutor.netlify.app/)
-- Built with MERN Stack + TensorFlow.js
-- Real-time pose detection with 90% accuracy
-- 🥉 Secured 3rd Prize in VedicVision Hackathon conducted at college level.
-- 🔗 [GitHub Repo](https://github.com/jahnavi-j9/ai_yoga_tutor)
-
-### 💼 [CareerNest – Job Portal](https://carrer-nest.netlify.app/)
-- Resume upload, MySQL backend, Multer middleware
-- Handles 100+ applications efficiently  
-- 🔗 [GitHub Repo](https://github.com/jahnavi-j9/CarrerNest)
-
-### 💻 [CodeCraft – Online Compiler](https://code-craft-compiler.netlify.app/)
-- Supports HTML, CSS, JS, Python, Java, C++, PHP
-- Built using React + CodeMirror with real-time output  
-- 🔗 [GitHub Repo](https://github.com/jahnavi-j9/Code-Craft)
-
-### 🌐 [My Portfolio](https://jahnavi-portfolio-website.netlify.app/)
-- Showcasing all my projects, skills, and experience  
-- Built with pure HTML, CSS, JS  
-- 🔗 [GitHub Repo](https://github.com/jahnavi-j9/portfolio)
-
----
 
 ## 🛠️ Tech Stack
 
@@ -75,30 +52,12 @@
 
 ---
 
-## 💼 Experience
 
-- **React Intern** @ TEN Technologies (Jan 2025 – Present)  
-  ⚡ Built 2 high-performance UIs with 40% faster load times
-
-- **Gradious Technologies (Cohort 39)**  
-  🎯 Full-stack training (ongoing) with 90% grade average
-
----
-
-## 🏅 Achievements
-
-- 👩‍🎓 Academic Topper (CGPA 9.23) in CSBS  
-- 🎓 Cisco Networking Academy – IPv6 & Router Config  
-- 🧠 6 Google Cloud Badges via Study Jam  
-- 🧑‍🏫 Conducted 5 workshops on ethical coding – 100+ students
-
----
 
 ## 📫 Connect with Me
 
 - ✉️ Email: [jahnavigrandhi2005@gmail.com](mailto:jahnavigrandhi2005@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/jahnavi-grandhi-a74a042a1](https://linkedin.com/in/jahnavi-grandhi-a74a042a1)  
-- 🌐 Portfolio: [jahnavi-portfolio-website.netlify.app](https://jahnavi-portfolio-website.netlify.app)  
+- 💼 LinkedIn: [linkedin.com/in/jahnavi-grandhi-a74a042a1](https://linkedin.com/in/jahnavi-grandhi-a74a042a1)   
 
 ---
 
