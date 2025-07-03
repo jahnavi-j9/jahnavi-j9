@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hey there, I'm Jahnavi Grandhi ✨</h1>
+<h1 align="center">✨ I'm Jahnavi Grandhi ✨</h1>
 <h3 align="center">🚀 Full-Stack Developer | 🤖 AI Enthusiast </h3>
 
 ---
