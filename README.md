@@ -2,6 +2,7 @@
 <h3 align="center">🚀 Full-Stack Developer | 🤖 AI/ML Explorer | 🌐 Tech Visionary</h3>
 
 
+<br />
 
 ## 🔥 About Me
 
@@ -12,26 +13,20 @@
 🎯 Mission: Build software that empowers people and solves real-world problems  
 
 
+
+<br />
+
 ## 🧰 Tech Stack & Tools
 
 <div align="center">
-  
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mysql,mongodb,python,git,github,figma,postman" />
 </div>
+
+
+
+
+<br />
+
 
 
 ## 📊 GitHub Stats
@@ -47,6 +42,8 @@
 
 
 
+<br />
+
 ## 🏆 Highlights & Achievements
 
 - 🥇 Finalist – SRKR Smart Hackathon 2024 (Yoga AI Tutor Project)  
@@ -56,7 +53,7 @@
 - 👩‍🏫 Delivered tech talks & project mentoring in peer workshops  
 
 
-
+<br />
 
 ## 🧪 Projects
 
@@ -87,6 +84,8 @@
 
 
 
+<br />
+
 ## 🧩 Certifications
 
 - ✅ Cisco Certified: Python Essentials  
@@ -94,6 +93,8 @@
 - ✅ Coursera: Full-Stack Development
 
 
+
+<br />
 
 ## 🌐 Let's Connect
 
@@ -105,6 +106,8 @@
 </p>
 
 
+
+<br />
 
 ## 📱 Contact Info
 
