@@ -106,7 +106,6 @@
 </p>
 
 
-
 <br />
 
 ## 📱 Contact Info
@@ -115,7 +114,6 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/jahnavi-grandhi-a74a042a1/)  
 - 💻 [GitHub](https://github.com/jahnavi-j9)  
 - 🌐 [Portfolio](https://jahnavi-portfolio-website.netlify.app)  
-
 
 
 <p align="center">
