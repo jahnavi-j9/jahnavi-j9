@@ -1,7 +1,6 @@
 <h1 align="center">✨ Hey there! I'm <span style="color:#ff80bf;">Jahnavi Grandhi</span> ✨</h1>
 <h3 align="center">🚀 Full-Stack Developer | 🤖 AI/ML Explorer | 🌐 Tech Visionary</h3>
 
-
 <br />
 
 ## 🔥 About Me
